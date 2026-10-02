@@ -1,0 +1,51 @@
+{
+  "brand": "KYSTIN",
+  "title": "Maison KYSTIN — Cidres, poirés & spiritueux d'innovation",
+  "meta_description": "Maison KYSTIN, cidrier fondé en 2012 à Vannes : cidres BIO aromatisés, poirés d'exception, cidres de glace et spiritueux. Boutiques à Vannes, Auray, Rennes et La Baule.",
+  "email": "contact@kystin.fr",
+  "lang": "fr",
+  "shape": "thistle",
+  "mark": "assets/brand/mark.svg",
+  "palette": ["#2a9187", "#7fd1c4", "#dda15e", "#ecf8f6", "#18534f"],
+  "nav": ["Accueil", "La Maison", "Nos cuvées", "En chiffres", "Contact"],
+  "hero": {
+    "title": ["Cidres & poirés", "d'innovation"],
+    "lead": "Maison KYSTIN élabore des cidres, des poirés et des spiritueux qui bousculent la tradition. Pour les curieux, les gourmets et les restaurateurs de la façade Atlantique."
+  },
+  "about": {
+    "title": ["Née d'une", "châtaigne"],
+    "text": "KYSTIN signifie « châtaigne » en breton, en hommage au cidre aux châtaignes, la toute première cuvée de la Maison. Fondée en 2012 à Vannes par Sasha Crommar, cidrier depuis une trentaine d'années formé en Normandie, la Maison ouvre sa première boutique en 2018. Suivent Auray, Rennes, puis La Baule en 2025."
+  },
+  "benefits": {
+    "title": ["Ce que nous", "élaborons"],
+    "items": [
+      {"icon": "leaf", "text": "Des cidres BIO aromatisés : châtaigne, sarrasin, miel de Bretagne, cannelle."},
+      {"icon": "star", "text": "Des poirés d'exception : Pûr, gingembre, rose de Damas."},
+      {"icon": "spark", "text": "Des cidres de glace et des spiritueux : Hesperide, Erytheïa, Kalon, nos Gyns."},
+      {"icon": "people", "text": "Une offre dédiée aux restaurants, cavistes et professionnels."}
+    ]
+  },
+  "results": {
+    "title": ["Une maison", "qui grandit"],
+    "lead": "De Vannes à La Baule, une ambition tournée vers toute la façade Atlantique.",
+    "figures": []
+  },
+  "figures": [
+    {"value": 30, "suffix": " ans", "label": "de savoir-faire<br>cidricole"},
+    {"value": 4, "suffix": "", "label": "boutiques ouvertes<br>depuis 2018"},
+    {"value": 20, "suffix": "", "label": "boutiques visées<br>d'ici dix ans"}
+  ],
+  "contact": {
+    "title": ["Une envie,", "une commande ?"],
+    "lead": "Particulier, restaurateur ou caviste ?<br>Écrivez-nous, nous vous répondons rapidement."
+  },
+  "loader_hint": "Ouverture de la cave",
+  "form": {
+    "company": "Établissement",
+    "company_placeholder": "Restaurant, cave, entreprise…",
+    "project": "Votre demande",
+    "project_placeholder": "Commande, coffret, partenariat…",
+    "email_placeholder": "vous@exemple.fr"
+  },
+  "footer": {"spec": "L'abus d'alcool est dangereux pour la santé. À consommer avec modération."}
+}
